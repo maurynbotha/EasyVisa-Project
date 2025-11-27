@@ -16,7 +16,7 @@ It includes exploratory data analysis (EDA), preprocessing, feature engineering,
 ##  How to Use
 1. Clone or download the repository: git clone https://github.com/maurynbotha/easyvisa-project.git
 
-2. 2. Open the notebook:
+2. Open the notebook:
 jupyter notebook Project_Full_Code_Notebook_EasyVisa.ipynb
 
 
